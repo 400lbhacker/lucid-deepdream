@@ -1,5 +1,4 @@
 # pytorch-deepdream
-beast-pytorch-tensorflow-deepdream
 
 
 changes/improvements/features:
