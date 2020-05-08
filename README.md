@@ -29,16 +29,22 @@ changes/improvements/features:
 
 for more of my projects or to add me on social media:
 github:		https://github.com/400lbhacker 
+
 facebook:	https://www.facebook.com/mimmy.tussins.1
+
 gmail:		josepherickson135@gmail.com
+
 ---------------------------------------------
 
 this project's base directory is located at: 
+
 https://github.com/400lbhacker/beast-pytorch-tensorflow-deepdream
+
 ---------------------------------------------
 
 below are several quick examples showing what can be accomplished in under 60 seconds.
 Run project now with google colab:
+
 https://colab.research.google.com/github/400lbhacker/beast-pytorch-tensorflow-deepdream/blob/master/beast-pytorch-tensorflow-deepdream.ipynb
 
 ![Image of Yaktocat](https://github.com/400lbhacker/pytorch-deepdream/blob/master/neuron-new5b%5D.jpg)
