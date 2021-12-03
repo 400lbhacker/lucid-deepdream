@@ -2,6 +2,7 @@
 
 PLEASE JOIN OUR LUCID FACEBOOK GROUP HERE: https://www.facebook.com/groups/3407100409414697
 
+try online using the following google colab link: https://colab.research.google.com/github/400lbhacker/lucid-deepdream/blob/master/lucid-deepdream.ipynb
 
 changes/improvements/features:
 -----------------------------------------------
@@ -32,14 +33,6 @@ EDIT: RECENTLY REPAIRED THE UINT8/NUMPY ARRAY ERROR THAT WAS OCCOURING DUE TO CO
 
 -----------------------------------------------
 
-for more of my projects or to add me on social media:
-github:		https://github.com/400lbhacker 
-
-facebook:	https://www.facebook.com/mimmy.tussins.1
-
-gmail:		josepherickson135@gmail.com
-
----------------------------------------------
 
 below are several quick examples showing what can be accomplished in under 60 seconds.
 Run project now with google colab:
