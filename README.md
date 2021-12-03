@@ -1,8 +1,13 @@
 # pytorch-deepdream
 
+PLEASE JOIN OUR LUCID FACEBOOK GROUP HERE: https://www.facebook.com/groups/3407100409414697
+
 
 changes/improvements/features:
 -----------------------------------------------
+
+EDIT: RECENTLY REPAIRED THE UINT8/NUMPY ARRAY ERROR THAT WAS OCCOURING DUE TO COLAB SHIFTING TOWARDS A MORE PYTHON3-RELIANT ENVIROMENT
+
 1)- runs online, no installation or even a python enviroment required.
 
 2)- no programming experience or code modification needed
@@ -36,16 +41,9 @@ gmail:		josepherickson135@gmail.com
 
 ---------------------------------------------
 
-this project's base directory is located at: 
-
-https://github.com/400lbhacker/beast-pytorch-tensorflow-deepdream
-
----------------------------------------------
-
 below are several quick examples showing what can be accomplished in under 60 seconds.
 Run project now with google colab:
 
-https://colab.research.google.com/github/400lbhacker/beast-pytorch-tensorflow-deepdream/blob/master/beast-pytorch-tensorflow-deepdream.ipynb
 
 ![Image of Yaktocat](https://github.com/400lbhacker/pytorch-deepdream/blob/master/neuron-new5b%5D.jpg)
 ![Image of Yaktocat](https://github.com/400lbhacker/pytorch-deepdream/blob/master/download%20(9).jpg)
