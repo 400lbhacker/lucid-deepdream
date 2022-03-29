@@ -2,8 +2,7 @@
 
 PLEASE JOIN OUR LUCID FACEBOOK GROUP HERE: https://www.facebook.com/groups/3407100409414697
 
-try online using the following google colab link: https://colab.research.google.com/github/400lbhacker/lucid-deepdream/blob/master/lucid-deepdream.ipynb
-
+try online using the following google colab link:  https://colab.research.google.com/github/400lbhacker/lucid-deepdream/blob/master/best_deepdream.ipynb
 changes/improvements/features:
 -----------------------------------------------
 
